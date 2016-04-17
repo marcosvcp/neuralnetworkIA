@@ -50,10 +50,10 @@ public class ImagesSetup {
         String folderLetters = pathTrain + "/letras";
         String folderBoth = pathTrain + "/digitos_letras";
         String nothing = pathTrain + "/sem_caracteres";
-        buildSet(wekaAttributes, trainingSet, folderDigits, DIGITOS);
-        buildSet(wekaAttributes, trainingSet, folderLetters, LETRAS);
-        buildSet(wekaAttributes, trainingSet, folderBoth, DIGITOS_LETRAS);
-        buildSet(wekaAttributes, trainingSet, nothing, SEM_CARACTERES);
+        buildSet(wekaAttributes, trainingSet, folderDigits, DIGITOS, null);
+        buildSet(wekaAttributes, trainingSet, folderLetters, LETRAS, null);
+        buildSet(wekaAttributes, trainingSet, folderBoth, DIGITOS_LETRAS, null);
+        buildSet(wekaAttributes, trainingSet, nothing, SEM_CARACTERES, null);
         cModel.buildClassifier(trainingSet);
 
         Evaluation eTest = new Evaluation(trainingSet);
@@ -63,11 +63,20 @@ public class ImagesSetup {
         String folderTestDigits = pathTest + "/digitos";
         String folderTestBoth = pathTest + "/digitos_letras";
         String nothingTest = pathTest + "/sem_caracteres";
-        buildSet(wekaAttributes, testingSet, folderTestLetters, LETRAS);
-        buildSet(wekaAttributes, testingSet, folderTestDigits, DIGITOS);
-        buildSet(wekaAttributes, testingSet, folderTestBoth, DIGITOS_LETRAS);
-        buildSet(wekaAttributes, testingSet, nothingTest, SEM_CARACTERES);
+        List<String> paths = new ArrayList<String>();
+        buildSet(wekaAttributes, testingSet, folderTestLetters, LETRAS, paths);
+        buildSet(wekaAttributes, testingSet, folderTestDigits, DIGITOS, paths);
+        buildSet(wekaAttributes, testingSet, folderTestBoth, DIGITOS_LETRAS, paths);
+        buildSet(wekaAttributes, testingSet, nothingTest, SEM_CARACTERES, paths);
         eTest.evaluateModel(cModel, testingSet);
+
+        for (int i = 0; i < testingSet.numInstances(); i++) {
+            double pred = cModel.classifyInstance(testingSet.instance(i));
+            System.out.println("ID: " + paths.get(i));
+            System.out.println("actual: " + testingSet.classAttribute().value((int) testingSet.instance(i).classValue()));
+            System.out.println("predicted: " + testingSet.classAttribute().value((int) pred));
+            System.out.println("\n");
+        }
 
         if (verbose) {
             System.out.println(eTest.toSummaryString(true));
@@ -79,16 +88,19 @@ public class ImagesSetup {
         System.out.println("f-measure: " + eTest.weightedFMeasure());
     }
 
-    private static void buildSet(FastVector wekaAttributes, Instances isTrainingSet, String folderName, String classe) throws Exception {
+    private static void buildSet(FastVector wekaAttributes, Instances isTrainingSet, String folderName, String classe, List<String> files) throws Exception {
         File folder = new File(folderName);
         File[] listOfFiles = folder.listFiles();
         for (File f : listOfFiles) {
+            if (files != null) {
+                files.add(f.getName());
+            }
             double[] histogram = buildHistogram(f);
-            createTrainingSet(isTrainingSet, wekaAttributes, histogram, classe);
+            createSet(isTrainingSet, wekaAttributes, histogram, classe);
         }
     }
 
-    private static void createTrainingSet(Instances isTrainingSet, FastVector wekaAttributes, double[] histogram, String classe) {
+    private static void createSet(Instances isTrainingSet, FastVector wekaAttributes, double[] histogram, String classe) {
 
         Instance imageInstance = new Instance(CAPACITY);
         for (int i = 0; i < histogram.length; i++) {
