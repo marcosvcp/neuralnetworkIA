@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/antsimple-20141119.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/antsimple.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/antsimple-20141120.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
