@@ -1,7 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62d18a6a-266e-4af7-b7ea-56e273aed91f" name="Default" comment="" />
+    <list default="true" id="62d18a6a-266e-4af7-b7ea-56e273aed91f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_0008163389716742_57.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_0455484466132273_55.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_1244880742730529_54.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_1249365451595593_60.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_2266411346593544_56.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_2530218593002627_53.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_2721182583844967_59.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_5418865822183411_58.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_5511723904079859_52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_7599421616958043_61.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0154413142082485_44.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0233549371790647_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0331516714056639_37.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0434462869573112_25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0654829266046873_23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0728788720899568_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0883171055216367_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0949616869101234_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0958013537581637_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_1348221830835610_20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_1604941615273309_48.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_1611446704055671_22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_1611808396338633_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_1702907111427000_30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_2476060466864403_45.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_2713589185334928_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_2882578991427453_38.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_2957008692799216_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_3061356921758626_34.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_3561543952076435_33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_3571797877631011_21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_3677444884675367_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_3917083244146396_40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_4044595221049998_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_4582968117905299_35.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_4647945386386299_43.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_4807020277654708_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_4941528233344958_27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_5257664369909097_50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_5272611812327684_31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_5486798501338497_49.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_5574360641245478_32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6124607483514260_29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6232716826997807_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6323870872433878_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6326899505474033_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6595134605945465_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6659477096580623_26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6835947938061296_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6902973604335911_39.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_7615855787936819_36.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_7637340013540254_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_7845312236857400_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_7854353233274704_46.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_8549317969586860_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_8761528310782670_47.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_8862637272581380_28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_9129257095343828_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_9297372767755897_42.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_9629496999139221_24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_9728802275371886_51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_9796600441213540_41.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_0008163389716742_57.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_0455484466132273_55.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_1244880742730529_54.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_1249365451595593_60.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_2266411346593544_56.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_2530218593002627_53.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_2721182583844967_59.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_5418865822183411_58.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_5511723904079859_52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_7599421616958043_61.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0154413142082485_44.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0233549371790647_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0331516714056639_37.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0434462869573112_25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0654829266046873_23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0728788720899568_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0883171055216367_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0949616869101234_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0958013537581637_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_1348221830835610_20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_1604941615273309_48.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_1611446704055671_22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_1611808396338633_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_1702907111427000_30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_2476060466864403_45.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_2713589185334928_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_2882578991427453_38.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_2957008692799216_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_3061356921758626_34.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_3561543952076435_33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_3571797877631011_21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_3677444884675367_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_3917083244146396_40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_4044595221049998_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_4582968117905299_35.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_4647945386386299_43.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_4807020277654708_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_4941528233344958_27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_5257664369909097_50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_5272611812327684_31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_5486798501338497_49.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_5574360641245478_32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6124607483514260_29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6232716826997807_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6323870872433878_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6326899505474033_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6595134605945465_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6659477096580623_26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6835947938061296_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6902973604335911_39.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_7615855787936819_36.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_7637340013540254_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_7845312236857400_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_7854353233274704_46.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_8549317969586860_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_8761528310782670_47.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_8862637272581380_28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_9129257095343828_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_9297372767755897_42.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_9629496999139221_24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_9728802275371886_51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_9796600441213540_41.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/classifier/ClassifierSetBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/classifier/NeuralNetworkClassifier.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos/6A23E.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos/crianças-com-números-31188584.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos/digitos.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos/digitos_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos/digitos_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos/large_article_im913_Brasil-em-numeros_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos/numeros-lotofacil.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos_letras/Caracteres-L10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos_letras/letra_digito.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos_letras/letra_digito_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos_letras/letra_digito_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos_letras/mapa-de-caracteres3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/letras/caracteres49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/letras/letra.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/letras/letra_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/letras/letra_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/letras/letras.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/digitos.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/digitos_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/digitos_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos_letras/letra_digito.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos_letras/letra_digito_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos_letras/letra_digito_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/letra.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/letra_2.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/letra_3.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/antsimple.jar" afterPath="$PROJECT_DIR$/antsimple.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/com/classifier/ImagesSetup.class" afterPath="$PROJECT_DIR$/build/com/classifier/ImagesSetup.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/antsimple.jar" afterPath="$PROJECT_DIR$/dist/antsimple.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classifier" afterPath="$PROJECT_DIR$/classifier" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/classifier/ImagesSetup.java" afterPath="$PROJECT_DIR$/src/com/classifier/ImagesSetup.java" />
+    </list>
     <ignored path="classifier.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,17 +184,54 @@
       <file leaf-file-name="ImagesSetup.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/classifier/ImagesSetup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+            <state relative-caret-position="558">
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2742#2750#0" expanded="true" />
+                <element signature="e#1980#1988#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassifierSetBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/classifier/ClassifierSetBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1949#1950#0" expanded="true" />
+                <element signature="e#1980#1981#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NeuralNetworkClassifier.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/classifier/NeuralNetworkClassifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#737#738#0" expanded="true" />
+                <element signature="e#771#772#0" expanded="true" />
+                <element signature="e#818#819#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,6 +244,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/classifier/NeuralNetworkClassifier.java" />
+        <option value="$PROJECT_DIR$/src/com/classifier/ClassifierSetBuilder.java" />
         <option value="$PROJECT_DIR$/src/com/classifier/ImagesSetup.java" />
       </list>
     </option>
@@ -237,12 +435,50 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -268,6 +504,22 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -287,6 +539,73 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="classifier" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -311,6 +630,34 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -380,13 +727,47 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/classifier/ImagesSetup.java">
+    <entry file="file://$PROJECT_DIR$/src/com/classifier/RedeNeural.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+        <state relative-caret-position="90">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/classifier/ClassifierSetBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2742#2750#0" expanded="true" />
+            <element signature="e#1949#1950#0" expanded="true" />
+            <element signature="e#1980#1981#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/classifier/NeuralNetworkClassifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/classifier/ImagesSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1980#1988#0" expanded="true" />
           </folding>
         </state>
       </provider>

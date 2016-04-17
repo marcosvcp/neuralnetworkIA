@@ -1,11 +1,7 @@
 package com.classifier;
 
-import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
-import weka.classifiers.functions.MultilayerPerceptron;
-import weka.core.Attribute;
 import weka.core.FastVector;
-import weka.core.Instance;
 import weka.core.Instances;
 
 import javax.imageio.ImageIO;
@@ -23,59 +19,62 @@ public class ImagesSetup {
     private static final String LETRAS = "letras";
     private static final String DIGITOS_LETRAS = "digitos_letras";
     private static final String SEM_CARACTERES = "sem_caracteres";
-    private static final int CAPACITY = 257;
-    private static final int INDEX = 256;
+
 
     public static void main(String[] a) throws Exception {
         boolean verbose = Boolean.parseBoolean(a[0]);
         String pathTrain = a[1];
         String pathTest = a[2];
-        FastVector wekaAttributes = new FastVector(CAPACITY);
-        for (int i = 0; i < INDEX; i++) {
-            Attribute attr = new Attribute("numeric" + i);
-            wekaAttributes.addElement(attr);
-        }
+
         FastVector classes = new FastVector(4);
         classes.addElement(DIGITOS);
         classes.addElement(LETRAS);
         classes.addElement(DIGITOS_LETRAS);
         classes.addElement(SEM_CARACTERES);
-        Attribute attr = new Attribute("classes", classes);
-
-        wekaAttributes.addElement(attr);
-        Instances trainingSet = new Instances("Rel", wekaAttributes, 1);
-        trainingSet.setClassIndex(INDEX);
-        Classifier cModel = new MultilayerPerceptron();
+        NeuralNetworkClassifier NNCTrain = new NeuralNetworkClassifier(classes);
         String folderDigits = pathTrain + "/digitos";
         String folderLetters = pathTrain + "/letras";
         String folderBoth = pathTrain + "/digitos_letras";
         String nothing = pathTrain + "/sem_caracteres";
-        buildSet(wekaAttributes, trainingSet, folderDigits, DIGITOS, null);
-        buildSet(wekaAttributes, trainingSet, folderLetters, LETRAS, null);
-        buildSet(wekaAttributes, trainingSet, folderBoth, DIGITOS_LETRAS, null);
-        buildSet(wekaAttributes, trainingSet, nothing, SEM_CARACTERES, null);
-        cModel.buildClassifier(trainingSet);
 
-        Evaluation eTest = new Evaluation(trainingSet);
-        Instances testingSet = new Instances("Reltst", wekaAttributes, 1);
-        testingSet.setClassIndex(INDEX);
+        NNCTrain.buildSet(folderDigits, DIGITOS, null);
+        NNCTrain.buildSet(folderLetters, LETRAS, null);
+        NNCTrain.buildSet(folderBoth, DIGITOS_LETRAS, null);
+        NNCTrain.buildSet(nothing, SEM_CARACTERES, null);
+        NNCTrain.buildClassifier();
+
+        Evaluation eTest = new Evaluation(NNCTrain.getSet());
+        ClassifierSetBuilder testBuilder = new ClassifierSetBuilder(classes);
         String folderTestLetters = pathTest + "/letras";
         String folderTestDigits = pathTest + "/digitos";
         String folderTestBoth = pathTest + "/digitos_letras";
         String nothingTest = pathTest + "/sem_caracteres";
         List<String> paths = new ArrayList<String>();
-        buildSet(wekaAttributes, testingSet, folderTestLetters, LETRAS, paths);
-        buildSet(wekaAttributes, testingSet, folderTestDigits, DIGITOS, paths);
-        buildSet(wekaAttributes, testingSet, folderTestBoth, DIGITOS_LETRAS, paths);
-        buildSet(wekaAttributes, testingSet, nothingTest, SEM_CARACTERES, paths);
-        eTest.evaluateModel(cModel, testingSet);
+        testBuilder.buildSet(folderTestLetters, LETRAS, paths);
+        testBuilder.buildSet(folderTestDigits, DIGITOS, paths);
+        testBuilder.buildSet(folderTestBoth, DIGITOS_LETRAS, paths);
+        testBuilder.buildSet(nothingTest, SEM_CARACTERES, paths);
 
-        for (int i = 0; i < testingSet.numInstances(); i++) {
-            double pred = cModel.classifyInstance(testingSet.instance(i));
+        Instances testSet = testBuilder.getSet();
+        eTest.evaluateModel(NNCTrain.getClassifier(), testSet);
+
+        getStatistics(verbose, NNCTrain, eTest, paths, testSet);
+    }
+
+    private static void getStatistics(boolean verbose, NeuralNetworkClassifier NNCTrain, Evaluation eTest, List<String> paths, Instances testSet) throws Exception {
+        for (int i = 0; i < testSet.numInstances(); i++) {
+            double pred = NNCTrain.getClassifier().classifyInstance(testSet.instance(i));
             System.out.println("ID: " + paths.get(i));
-            System.out.println("actual: " + testingSet.classAttribute().value((int) testingSet.instance(i).classValue()));
-            System.out.println("predicted: " + testingSet.classAttribute().value((int) pred));
-            System.out.println("\n");
+            String actual = testSet.classAttribute().value((int) testSet.instance(i).classValue());
+            String predicted = testSet.classAttribute().value((int) pred);
+            System.out.println("actual: " + actual);
+            System.out.println("predicted: " + predicted);
+            System.out.println("");
+            if (actual.equals(predicted)) {
+                System.out.println("SUCCESS");
+            } else {
+                System.out.println("FAILURE");
+            }
         }
 
         if (verbose) {
@@ -88,29 +87,6 @@ public class ImagesSetup {
         System.out.println("f-measure: " + eTest.weightedFMeasure());
     }
 
-    private static void buildSet(FastVector wekaAttributes, Instances isTrainingSet, String folderName, String classe, List<String> files) throws Exception {
-        File folder = new File(folderName);
-        File[] listOfFiles = folder.listFiles();
-        for (File f : listOfFiles) {
-            if (files != null) {
-                files.add(f.getName());
-            }
-            double[] histogram = buildHistogram(f);
-            createSet(isTrainingSet, wekaAttributes, histogram, classe);
-        }
-    }
-
-    private static void createSet(Instances isTrainingSet, FastVector wekaAttributes, double[] histogram, String classe) {
-
-        Instance imageInstance = new Instance(CAPACITY);
-        for (int i = 0; i < histogram.length; i++) {
-            imageInstance.setValue((Attribute) wekaAttributes.elementAt(i), histogram[i]);
-        }
-        if (!classe.isEmpty()) {
-            imageInstance.setValue((Attribute) wekaAttributes.elementAt(INDEX), classe);
-        }
-        isTrainingSet.add(imageInstance);
-    }
 
 //////////////// helper code /////////////////////////
 
