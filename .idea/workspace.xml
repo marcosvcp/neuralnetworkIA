@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62d18a6a-266e-4af7-b7ea-56e273aed91f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/antsimple.jar" afterPath="$PROJECT_DIR$/antsimple.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/com/classifier/ImagesSetup.class" afterPath="$PROJECT_DIR$/build/com/classifier/ImagesSetup.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/antsimple.jar" afterPath="$PROJECT_DIR$/dist/antsimple.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/classifier/ImagesSetup.java" afterPath="$PROJECT_DIR$/src/com/classifier/ImagesSetup.java" />
-    </list>
+    <list default="true" id="62d18a6a-266e-4af7-b7ea-56e273aed91f" name="Default" comment="" />
     <ignored path="classifier.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,8 +25,8 @@
       <file leaf-file-name="ImagesSetup.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/classifier/ImagesSetup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="76" column="32" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
+            <state relative-caret-position="407">
+              <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2742#2750#0" expanded="true" />
@@ -387,8 +382,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/classifier/ImagesSetup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="76" column="32" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
+        <state relative-caret-position="407">
+          <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2742#2750#0" expanded="true" />
