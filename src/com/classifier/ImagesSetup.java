@@ -3,7 +3,6 @@ package com.classifier;
 import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
 import weka.classifiers.functions.MultilayerPerceptron;
-
 import weka.core.Attribute;
 import weka.core.FastVector;
 import weka.core.Instance;
@@ -13,7 +12,9 @@ import javax.imageio.ImageIO;
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashSet;
 import java.util.List;
 
 public class ImagesSetup {
@@ -42,36 +43,37 @@ public class ImagesSetup {
         Attribute attr = new Attribute("classes", classes);
 
         wekaAttributes.addElement(attr);
-        Instances isTrainingSet = new Instances("Rel", wekaAttributes, 1);
-        isTrainingSet.setClassIndex(INDEX);
+        Instances trainingSet = new Instances("Rel", wekaAttributes, 1);
+        trainingSet.setClassIndex(INDEX);
         Classifier cModel = new MultilayerPerceptron();
         String folderDigits = pathTrain + "/digitos";
         String folderLetters = pathTrain + "/letras";
         String folderBoth = pathTrain + "/digitos_letras";
         String nothing = pathTrain + "/sem_caracteres";
-        buildSet(wekaAttributes, isTrainingSet, folderDigits, DIGITOS);
-        buildSet(wekaAttributes, isTrainingSet, folderLetters, LETRAS);
-        buildSet(wekaAttributes, isTrainingSet, folderBoth, DIGITOS_LETRAS);
-        buildSet(wekaAttributes, isTrainingSet, nothing, SEM_CARACTERES);
-        cModel.buildClassifier(isTrainingSet);
+        buildSet(wekaAttributes, trainingSet, folderDigits, DIGITOS);
+        buildSet(wekaAttributes, trainingSet, folderLetters, LETRAS);
+        buildSet(wekaAttributes, trainingSet, folderBoth, DIGITOS_LETRAS);
+        buildSet(wekaAttributes, trainingSet, nothing, SEM_CARACTERES);
+        cModel.buildClassifier(trainingSet);
 
-        Evaluation eTest = new Evaluation(isTrainingSet);
+        Evaluation eTest = new Evaluation(trainingSet);
         Instances testingSet = new Instances("Reltst", wekaAttributes, 1);
         testingSet.setClassIndex(INDEX);
         String folderTestLetters = pathTest + "/letras";
         String folderTestDigits = pathTest + "/digitos";
         String folderTestBoth = pathTest + "/digitos_letras";
         String nothingTest = pathTest + "/sem_caracteres";
-        buildSet(wekaAttributes, testingSet, folderTestLetters, "");
-        buildSet(wekaAttributes, testingSet, folderTestDigits, "");
-        buildSet(wekaAttributes, testingSet, folderTestBoth, "");
-        buildSet(wekaAttributes, testingSet, nothingTest, "");
+        buildSet(wekaAttributes, testingSet, folderTestLetters, LETRAS);
+        buildSet(wekaAttributes, testingSet, folderTestDigits, DIGITOS);
+        buildSet(wekaAttributes, testingSet, folderTestBoth, DIGITOS_LETRAS);
+        buildSet(wekaAttributes, testingSet, nothingTest, SEM_CARACTERES);
         eTest.evaluateModel(cModel, testingSet);
 
         if (verbose) {
             System.out.println(eTest.toSummaryString(true));
             System.out.println(eTest.toClassDetailsString());
         }
+
         System.out.println("precision: " + eTest.weightedPrecision());
         System.out.println("recall: " + eTest.weightedRecall());
         System.out.println("f-measure: " + eTest.weightedFMeasure());
