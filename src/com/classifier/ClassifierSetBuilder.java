@@ -39,7 +39,7 @@ public class ClassifierSetBuilder {
             if (files != null) {
                 files.add(f.getPath());
             }
-            double[] histogram = ImagesSetup.buildHistogram(f);
+            double[] histogram = Histogram.buildHistogram(f);
             createSet(wekaAttributes, histogram, clazz);
         }
     }

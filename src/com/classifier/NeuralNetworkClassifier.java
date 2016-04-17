@@ -31,7 +31,6 @@ public class NeuralNetworkClassifier {
         return this.model;
     }
 
-
     public Instances getSet() {
         return this.setBuilder.getSet();
     }

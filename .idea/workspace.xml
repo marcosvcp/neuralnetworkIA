@@ -2,164 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d18a6a-266e-4af7-b7ea-56e273aed91f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_0008163389716742_57.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_0455484466132273_55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_1244880742730529_54.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_1249365451595593_60.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_2266411346593544_56.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_2530218593002627_53.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_2721182583844967_59.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_5418865822183411_58.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_5511723904079859_52.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/digitos/img_7599421616958043_61.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0154413142082485_44.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0233549371790647_19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0331516714056639_37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0434462869573112_25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0654829266046873_23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0728788720899568_0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0883171055216367_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0949616869101234_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_0958013537581637_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_1348221830835610_20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_1604941615273309_48.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_1611446704055671_22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_1611808396338633_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_1702907111427000_30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_2476060466864403_45.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_2713589185334928_18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_2882578991427453_38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_2957008692799216_13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_3061356921758626_34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_3561543952076435_33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_3571797877631011_21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_3677444884675367_16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_3917083244146396_40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_4044595221049998_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_4582968117905299_35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_4647945386386299_43.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_4807020277654708_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_4941528233344958_27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_5257664369909097_50.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_5272611812327684_31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_5486798501338497_49.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_5574360641245478_32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6124607483514260_29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6232716826997807_15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6323870872433878_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6326899505474033_17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6595134605945465_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6659477096580623_26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6835947938061296_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_6902973604335911_39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_7615855787936819_36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_7637340013540254_14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_7845312236857400_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_7854353233274704_46.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_8549317969586860_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_8761528310782670_47.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_8862637272581380_28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_9129257095343828_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_9297372767755897_42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_9629496999139221_24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_9728802275371886_51.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste/letras/img_9796600441213540_41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_0008163389716742_57.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_0455484466132273_55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_1244880742730529_54.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_1249365451595593_60.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_2266411346593544_56.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_2530218593002627_53.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_2721182583844967_59.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_5418865822183411_58.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_5511723904079859_52.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/digitos/img_7599421616958043_61.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0154413142082485_44.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0233549371790647_19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0331516714056639_37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0434462869573112_25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0654829266046873_23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0728788720899568_0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0883171055216367_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0949616869101234_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_0958013537581637_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_1348221830835610_20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_1604941615273309_48.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_1611446704055671_22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_1611808396338633_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_1702907111427000_30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_2476060466864403_45.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_2713589185334928_18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_2882578991427453_38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_2957008692799216_13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_3061356921758626_34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_3561543952076435_33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_3571797877631011_21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_3677444884675367_16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_3917083244146396_40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_4044595221049998_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_4582968117905299_35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_4647945386386299_43.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_4807020277654708_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_4941528233344958_27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_5257664369909097_50.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_5272611812327684_31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_5486798501338497_49.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_5574360641245478_32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6124607483514260_29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6232716826997807_15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6323870872433878_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6326899505474033_17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6595134605945465_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6659477096580623_26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6835947938061296_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_6902973604335911_39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_7615855787936819_36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_7637340013540254_14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_7845312236857400_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_7854353233274704_46.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_8549317969586860_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_8761528310782670_47.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_8862637272581380_28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_9129257095343828_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_9297372767755897_42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_9629496999139221_24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_9728802275371886_51.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/treinamento/letras/img_9796600441213540_41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/classifier/ClassifierSetBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/classifier/NeuralNetworkClassifier.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos/6A23E.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos/crianças-com-números-31188584.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos/digitos.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos/digitos_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos/digitos_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos/large_article_im913_Brasil-em-numeros_.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos/numeros-lotofacil.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos_letras/Caracteres-L10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos_letras/letra_digito.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos_letras/letra_digito_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos_letras/letra_digito_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/digitos_letras/mapa-de-caracteres3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/letras/caracteres49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/letras/letra.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/letras/letra_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/letras/letra_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teste/letras/letras.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/digitos.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/digitos_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/digitos_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos_letras/letra_digito.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos_letras/letra_digito_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos_letras/letra_digito_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/letra.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/letra_2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/letra_3.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/classifier/Histogram.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/img_0008163389716742_57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/img_0455484466132273_55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/img_1244880742730529_54.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/img_1249365451595593_60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/img_2266411346593544_56.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/img_2530218593002627_53.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/img_2721182583844967_59.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/img_5418865822183411_58.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/img_5511723904079859_52.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/digitos/img_7599421616958043_61.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_0154413142082485_44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_0233549371790647_19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_0331516714056639_37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_0434462869573112_25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_0654829266046873_23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_0728788720899568_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_0883171055216367_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_0949616869101234_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_0958013537581637_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_1348221830835610_20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_1604941615273309_48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_1611446704055671_22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_1611808396338633_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_1702907111427000_30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_2476060466864403_45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_2713589185334928_18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_2882578991427453_38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_2957008692799216_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_3061356921758626_34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_3561543952076435_33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_3571797877631011_21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_3677444884675367_16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_3917083244146396_40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_4044595221049998_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_4582968117905299_35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_4647945386386299_43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_4807020277654708_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_4941528233344958_27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_5257664369909097_50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_5272611812327684_31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_5486798501338497_49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_5574360641245478_32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_6124607483514260_29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_6232716826997807_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_6323870872433878_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_6326899505474033_17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_6595134605945465_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_6659477096580623_26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_6835947938061296_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_6902973604335911_39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_7615855787936819_36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_7637340013540254_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_7845312236857400_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_7854353233274704_46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_8549317969586860_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_8761528310782670_47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_8862637272581380_28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_9129257095343828_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_9297372767755897_42.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_9629496999139221_24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_9728802275371886_51.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/treinamento/letras/img_9796600441213540_41.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/antsimple.jar" afterPath="$PROJECT_DIR$/antsimple.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/com/classifier/ClassifierSetBuilder.class" afterPath="$PROJECT_DIR$/build/com/classifier/ClassifierSetBuilder.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/com/classifier/ImagesSetup.class" afterPath="$PROJECT_DIR$/build/com/classifier/ImagesSetup.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/com/classifier/NeuralNetworkClassifier.class" afterPath="$PROJECT_DIR$/build/com/classifier/NeuralNetworkClassifier.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/antsimple.jar" afterPath="$PROJECT_DIR$/dist/antsimple.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classifier" afterPath="$PROJECT_DIR$/classifier" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/classifier/ClassifierSetBuilder.java" afterPath="$PROJECT_DIR$/src/com/classifier/ClassifierSetBuilder.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/classifier/ImagesSetup.java" afterPath="$PROJECT_DIR$/src/com/classifier/ImagesSetup.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/classifier/NeuralNetworkClassifier.java" afterPath="$PROJECT_DIR$/src/com/classifier/NeuralNetworkClassifier.java" />
     </list>
     <ignored path="classifier.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -184,11 +98,23 @@
       <file leaf-file-name="ImagesSetup.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/classifier/ImagesSetup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+            <state relative-caret-position="191">
+              <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1980#1988#0" expanded="true" />
+                <element signature="e#483#491#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Histogram.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/classifier/Histogram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -197,12 +123,12 @@
       <file leaf-file-name="ClassifierSetBuilder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/classifier/ClassifierSetBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+            <state relative-caret-position="270">
+              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1949#1950#0" expanded="true" />
-                <element signature="e#1980#1981#0" expanded="true" />
+                <element signature="e#1947#1948#0" expanded="true" />
+                <element signature="e#1978#1979#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -211,14 +137,13 @@
       <file leaf-file-name="NeuralNetworkClassifier.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/classifier/NeuralNetworkClassifier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            <state relative-caret-position="522">
+              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#704#705#0" expanded="true" />
                 <element signature="e#737#738#0" expanded="true" />
-                <element signature="e#771#772#0" expanded="true" />
-                <element signature="e#818#819#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -245,6 +170,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/classifier/NeuralNetworkClassifier.java" />
+        <option value="$PROJECT_DIR$/src/com/classifier/Histogram.java" />
         <option value="$PROJECT_DIR$/src/com/classifier/ClassifierSetBuilder.java" />
         <option value="$PROJECT_DIR$/src/com/classifier/ImagesSetup.java" />
       </list>
@@ -702,13 +628,13 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24555984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.05173745" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -735,39 +661,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/classifier/ClassifierSetBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/classifier/NeuralNetworkClassifier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+        <state relative-caret-position="522">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1949#1950#0" expanded="true" />
-            <element signature="e#1980#1981#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/classifier/NeuralNetworkClassifier.java">
+    <entry file="file://$PROJECT_DIR$/src/com/classifier/ClassifierSetBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        <state relative-caret-position="270">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#737#738#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
-            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#1947#1948#0" expanded="true" />
+            <element signature="e#1978#1979#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/classifier/Histogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/classifier/ImagesSetup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        <state relative-caret-position="191">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1980#1988#0" expanded="true" />
+            <element signature="e#483#491#0" expanded="true" />
           </folding>
         </state>
       </provider>
